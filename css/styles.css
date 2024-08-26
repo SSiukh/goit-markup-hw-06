@@ -1261,6 +1261,7 @@ input {
     padding: 0 15px;
     gap: 0;
     flex-wrap: nowrap;
+    width: auto;
   }
 
   .container-in-footer-first {
